@@ -1,43 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T22:05:50.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="CIySxSVspb6W1dVshN0U" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-01T19:49:15.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="kkNjjndMmwzr5GAi0GOT" version="13.7.7" type="github">
   <diagram id="xj7onaCdYUxC2Av28004" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2hpRt_3U-gMbcYKT4Alg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2hpRt_3U-gMbcYKT4Alg-1">
+        <mxCell id="2hpRt_3U-gMbcYKT4Alg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2hpRt_3U-gMbcYKT4Alg-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2hpRt_3U-gMbcYKT4Alg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2hpRt_3U-gMbcYKT4Alg-1" target="2hpRt_3U-gMbcYKT4Alg-9">
+        <mxCell id="2hpRt_3U-gMbcYKT4Alg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2hpRt_3U-gMbcYKT4Alg-1" target="2hpRt_3U-gMbcYKT4Alg-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2hpRt_3U-gMbcYKT4Alg-1" value="JEFE&lt;br&gt;MATE&lt;br&gt;EMAIL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="40" width="220" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="2hpRt_3U-gMbcYKT4Alg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2hpRt_3U-gMbcYKT4Alg-4" target="2hpRt_3U-gMbcYKT4Alg-11">
+        <mxCell id="2hpRt_3U-gMbcYKT4Alg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2hpRt_3U-gMbcYKT4Alg-4" target="2hpRt_3U-gMbcYKT4Alg-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2hpRt_3U-gMbcYKT4Alg-4" value="EJECUTIVO&lt;br&gt;SANTIAGO&lt;br&gt;EMAIL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2hpRt_3U-gMbcYKT4Alg-4" value="EJECUTIVO&lt;br&gt;SANTIAGO&lt;br&gt;EMAIL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="265" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="2hpRt_3U-gMbcYKT4Alg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2hpRt_3U-gMbcYKT4Alg-9" target="2hpRt_3U-gMbcYKT4Alg-14">
+        <mxCell id="2hpRt_3U-gMbcYKT4Alg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2hpRt_3U-gMbcYKT4Alg-9" target="2hpRt_3U-gMbcYKT4Alg-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="715" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2hpRt_3U-gMbcYKT4Alg-9" value="DIRECTOR&lt;br&gt;MARTIN&lt;br&gt;EMAIL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2hpRt_3U-gMbcYKT4Alg-9" value="DIRECTOR&lt;br&gt;MARTIN&lt;br&gt;EMAIL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="255" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="2hpRt_3U-gMbcYKT4Alg-11" value="LIMPIEZA&lt;br&gt;JOSE&lt;br&gt;EMAIL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2hpRt_3U-gMbcYKT4Alg-11" value="LIMPIEZA&lt;br&gt;JOSE&lt;br&gt;EMAIL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="550" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="2hpRt_3U-gMbcYKT4Alg-14" value="TRABAJADORES&lt;br&gt;ANDERA&lt;br&gt;EMAIL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2hpRt_3U-gMbcYKT4Alg-14" value="TRABAJADORES&lt;br&gt;ANDERA&lt;br&gt;EMAIL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="560" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2hpRt_3U-gMbcYKT4Alg-1" value="JEFE&lt;br&gt;MATE&lt;br&gt;EMAIL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="40" width="220" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
